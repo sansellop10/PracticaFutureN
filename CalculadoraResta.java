@@ -11,7 +11,7 @@ public class CalculadoraResta{
         System.out.print("Introduce numero 2: ");
             num2 = in.nextInt();
 
-        resta = num1 + num2;
+        resta = num1 - num2;
 
         System.out.println("El resultadoe es: "+resta);
 
